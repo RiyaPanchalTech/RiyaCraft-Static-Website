@@ -1,30 +1,49 @@
-# RiyaCraft – Digital Experience Website
+# 🌸 RiyaCraft – Digital Experience Website
+
+> Crafting Ideas Into Beautiful Experiences.
 
 RiyaCraft is a responsive static webpage created as part of the
 DecodeLabs Frontend Development Project 1.
 
-## Technologies Used
+## ✨ Features
+
+- 🌸 Clean and aesthetic design
+- 📱 Responsive layout
+- 🧩 Semantic HTML structure
+- 🎨 Modern CSS styling
+- 💻 Flexbox and CSS Grid
+- 🖼️ Image integration
+- ✨ Hover effects
+- 🔗 Social media links
+- 📩 Contact section
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - Google Fonts
 
-## Features
+## 📸 Screenshots
 
-- Semantic HTML structure
-- Responsive design
-- CSS Flexbox
-- CSS Grid
-- Image integration
-- Hover effects
-- Mobile-friendly layout
-- Contact and social links
+### 🏠 Home
+![Home](screenshots/home.png)
 
-## Project
+### ✨ About
+![About](screenshots/About.png)
 
-This project demonstrates the fundamentals of frontend web development
-through a clean and modern static webpage.
+### 🎨 Explore
+![Explore](screenshots/Explore.png)
 
-## Author
+### 💻 Skills
+![Skills](screenshots/Skill.png)
 
-Riya Panchal
+### 📩 Contact
+![Contact](screenshots/contact.png)
+
+## 👩‍💻 Author
+
+**Riya Panchal**
+
+- GitHub: [RiyaPanchalTech](https://github.com/RiyaPanchalTech)
+- LinkedIn: [Riya Panchal](https://www.linkedin.com/in/riya-panchal-57514032a)
+- Instagram: [@riyapanchal6368](https://www.instagram.com/riyapanchal6368)
